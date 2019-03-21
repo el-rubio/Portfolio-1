@@ -45,6 +45,7 @@ nav ul {
   position: fixed;
   width: 100%;
   background-color: #e0ebe8;
+  color: #000000;
 }
 
 nav li {
@@ -52,6 +53,7 @@ nav li {
   margin:55px;
   margin-bottom: 15px;
   margin-top: 25px;
+  color: #000000;
 }
 
 nav ul li a {
