@@ -27,6 +27,14 @@ p {
   background: #e0ebe8
 }
 
+.intro h3 {
+  color: green;
+}
+
+.intro h2 {
+  color: green;
+}
+
 .intro p {
   color: green;
 }
