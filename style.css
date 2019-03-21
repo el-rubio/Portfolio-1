@@ -17,7 +17,7 @@ h3 {
 }
 
 p {
-  color: #008080;
+  color: #008000;
   font-size: 15px;
 }
 .intro {
@@ -55,7 +55,7 @@ nav li {
 
 nav ul li a {
   text-decoration: none;
-  color: #e0ebe8;
+  color: #000000;
 }
 
 nav ul li: hover {
