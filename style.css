@@ -43,7 +43,7 @@ nav ul {
   text-align: right;
   position: fixed;
   width: 100%;
-  background-color: #000000;
+  background-color: #e0ebe8;
 }
 
 nav li {
@@ -55,7 +55,7 @@ nav li {
 
 nav ul li a {
   text-decoration: none;
-  color: #000000;
+  color: #e0ebe8;
 }
 
 nav ul li: hover {
