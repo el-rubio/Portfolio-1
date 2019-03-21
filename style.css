@@ -24,7 +24,7 @@ p {
   top: 0;
   min-height: 20vh;
   padding-top:20vh;
-  background: #e0ebe8
+  background: #000000;
 }
 
 .intro h3 {
@@ -43,7 +43,7 @@ nav ul {
   text-align: right;
   position: fixed;
   width: 100%;
-  background-color: #e0ebe8;
+  background-color: #000000;
 }
 
 nav li {
@@ -55,7 +55,7 @@ nav li {
 
 nav ul li a {
   text-decoration: none;
-  color: #000000
+  color: #000000;
 }
 
 nav ul li: hover {
@@ -87,7 +87,7 @@ nav ul li: hover {
   height: 220px;
   width: 280px;
   margin: 40px 100px;
-  color: #008080
+  color: #008080;
 }
 
 .project-pic {
