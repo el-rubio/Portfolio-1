@@ -59,7 +59,7 @@ nav ul li a {
 }
 
 nav ul li: hover {
-  color:green;
+  color: black;
 }
 
 .work {
@@ -71,7 +71,7 @@ nav ul li: hover {
 .project {
   text-decoration: none;
   color: #008080
-    display:inline-block;
+  display: inline-block;
   overflow: hidden;
   border: 2px solid lightblue;
   height: 220px;
